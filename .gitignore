@@ -1,18 +1,8 @@
 # new
 .mypy_cache/
 __pycache__/
-sentence_bert/
-simCSE/
-make_dataset/
-GAN/
-mnist/
-ADNet/
-trans_data/
 /data/*
 !data/.gitkeep
-b.py
-c.py
-check*.py
 
 *.pth
 *.txt
