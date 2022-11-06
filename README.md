@@ -1,4 +1,4 @@
-# Transformer_translate
+# machine-translater-by-pytorch
 ## 説明
 [pytorchの公式チュートリアル](https://torch.classcat.com/2021/04/25/pytorch-1-8-tutorials-beginner-translation-transformer/)を参考に、Transformer Encoder Decoderによる翻訳モデルを構築した。  
 公式チュートリアルのコードでは`batch_first`になっていないため、
